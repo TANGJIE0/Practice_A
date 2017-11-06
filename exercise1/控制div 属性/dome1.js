@@ -86,6 +86,8 @@ btn_2();
 
 
 //隐藏
+btn[3].onclick=function(){
+    
     console.log("success")
     Tdiv.style.display="none";
 
